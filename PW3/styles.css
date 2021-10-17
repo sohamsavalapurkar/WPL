@@ -1,0 +1,34 @@
+span {
+    height: 40px;
+    width: 40px;
+    background-color: red;
+    color: white;
+    text-align: center;
+    display: inline-block;
+    
+}
+#add {
+    display: none;
+}
+
+li {
+    height: 40px;
+    line-height: 40px; 
+    padding: 0px !important;
+}
+.crossOut {
+    text-decoration: line-through;
+}
+
+.card-body {
+    padding: 0;
+}
+
+.hide {
+    display: none;
+}
+
+li:nth-child(even) {
+    background: silver;
+}
+
