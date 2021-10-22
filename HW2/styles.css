@@ -1,0 +1,32 @@
+.small-img {
+    padding: 10px;
+}
+
+body {
+    background-color: aqua;
+}
+
+#images {
+    margin-left: 10px;
+    margin-right: 200px;
+}
+
+.gray {
+    filter: grayscale(100%);
+}
+
+.modal-content{
+position: absolute;
+display: table; 
+overflow-y: auto;    
+overflow-x: auto;
+width: auto;
+height: auto;
+border: none;
+background-color: gray;   
+}
+
+p {
+color: white;
+}
+
